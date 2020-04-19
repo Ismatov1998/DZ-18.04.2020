@@ -1,0 +1,13 @@
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.exe
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.deps.json
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.runtimeconfig.json
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.runtimeconfig.dev.json
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.dll
+C:\QD\PM\bin\Debug\netcoreapp3.1\PM.pdb
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.csprojAssemblyReference.cache
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.csproj.CoreCompileInputs.cache
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.AssemblyInfoInputs.cache
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.AssemblyInfo.cs
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.dll
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.pdb
+C:\QD\PM\obj\Debug\netcoreapp3.1\PM.genruntimeconfig.cache
